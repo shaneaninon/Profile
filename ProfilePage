@@ -1,0 +1,65 @@
+<div class="PROFILE py-4">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-4">
+        <div class="card shadow-sm">
+          <div class="card-header bg-transparent text-center">
+            <img class="profile_img" src="https://source.unsplash.com/600x300/?student" alt="student dp">
+            <h3>Dingdong Dantes</h3>
+          </div>
+          <div class="card-body">
+            <p class="mb-0"><strong class="pr-1">USERNAME:</strong>doorbell@yahoo.com</p>
+            <p class="mb-0"><strong class="pr-1">AGE:</strong>30</p>
+  
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-8">
+        <div class="card shadow-sm">
+          <div class="card-header bg-transparent border-0">
+            <h3 class="mb-0"><i class="far fa-clone pr-1"></i>General Information</h3>
+          </div>
+          <div class="card-body pt-0">
+            <table class="table table-bordered">
+              <tr>
+                <th width="30%">PRODUCTS</th>
+                <td width="2%">:</td>
+                <td>125</td>
+              </tr>
+              <tr>
+                <th width="30%">USER SINCE</th>
+                <td width="2%">:</td>
+                <td>2020</td>
+              </tr>
+              <tr>
+                <th width="30%">Gender</th>
+                <td width="2%">:</td>
+                <td>Male</td>
+              </tr>
+              <tr>
+                <th width="30%">LOCAION</th>
+                <td width="2%">:</td>
+                <td>Piapi, Dumaguete City</td>
+              </tr>
+              
+              </tr>
+            </table>
+          </div>
+        </div>
+          <div style="height: 26px"></div>
+        <div class="card shadow-sm">
+          <div class="card-header bg-transparent border-0">
+            <h3 class="mb-0"><i class="far fa-clone pr-1"></i>Other Information</h3>
+          </div>
+          <div class="card-body pt-0">
+              <p>💕Welcome to our store! 
+📢Customer Service Hours: Everyday 10:30am - 7:30pm.📢
+✨Your 5-star review is the best support for our store! If you have any problems, please do not hesitate to contact us. So we can serve you better. 
+🎉Please follow us to keep up to date with our latest products and discounts🎉
+😊Enjoy your shopping ~ 😊</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
